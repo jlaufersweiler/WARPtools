@@ -1,0 +1,4 @@
+This was a tool for taking contact information from an arbitrarily delimited 
+text file (CSV, TAB, etc), and loading it to contact lists on a robo-calling 
+system. It contains functions for both loading the data and interactively 
+setting-up the file and field mappings for future uploads.
